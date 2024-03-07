@@ -8,10 +8,10 @@ const ExploreContainer: React.FC<ContainerProps> = () => {
     <IonCard>
       <IonCardHeader>
         <IonCardTitle> Hello World</IonCardTitle>
-        <IonCardSubtitle>Card Subtitle</IonCardSubtitle>
+        <IonCardSubtitle>This is Angela N. Libay</IonCardSubtitle>
       </IonCardHeader>
 
-      <IonCardContent>Here's a small text description for the card content. Nothing more, nothing less.</IonCardContent>
+      <IonCardContent>It's more fun in the Philippines</IonCardContent>
     </IonCard>
   );
 };
